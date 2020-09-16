@@ -1,0 +1,24 @@
+header h1{
+  text-align:center;
+  text-transform: uppercase;
+  color:#ffffff
+  
+}
+header {
+  background-color:#aeabab
+}
+nav a{
+  color:black;
+  background-color:#c7bebe;
+}
+img{
+  display:none;
+}
+section{
+  background-color:#666666;
+}
+section h2{
+	text-transform: uppercase;
+  color:#04254b
+  
+}
